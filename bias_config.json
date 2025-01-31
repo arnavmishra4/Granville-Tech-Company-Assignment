@@ -1,0 +1,39 @@
+{
+    "gender_terms": {
+        "biased": [
+            "mankind",
+            "chairman",
+            "policeman",
+            "stewardess"
+        ],
+        "inclusive": [
+            "humanity",
+            "chairperson",
+            "police officer",
+            "flight attendant"
+        ]
+    },
+    "cultural_terms": {
+        "biased": [
+            "primitive",
+            "exotic",
+            "oriental"
+        ],
+        "preferred": [
+            "traditional",
+            "unique",
+            "Asian"
+        ]
+    },
+    "ability_terms": {
+        "biased": [
+            "handicapped",
+            "disabled",
+            "mentally ill"
+        ],
+        "preferred": [
+            "person with a disability",
+            "person with a mental health condition"
+        ]
+    }
+}
